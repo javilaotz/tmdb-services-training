@@ -1,7 +1,7 @@
 export const moviesList = {
   "page": 1,
   "results": [
-    {
+    { 
       "poster_path": "/nHXiMnWUAUba2LZ0dFkNDVdvJ1o.jpg",
       "adult": false,
       "overview": "Underworld: Blood Wars follows Vampire death dealer, Selene, as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.",
